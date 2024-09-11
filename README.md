@@ -17,9 +17,12 @@ Além disso, esse projeto faz parte do processo seletivo do programa de estágio
 1. Instale o [Node.js](https://nodejs.org/en/).
 2. Clone o repositório:
    ```bash
-   git clone https://github.com/seuUsername/desafio-Gabriel-FC-Comp-2024.git
+   git clone https://github.com/Gabriel-FC-Comp/desafio-Gabriel-FC-Comp-2024
    ```
 3. Navegue para o diretório do projeto:
+   ```bash
+   cd desafio-Gabriel-FC-Comp-2024
+   ```
 4. Instale as dependências:
    ```bash
    npm install
@@ -42,4 +45,4 @@ Para utilizar a função analisaRecintos, crie uma instância da classe Recintos
    ```
 ## Contribuição e Contato
 
-Para qualquer dúvida ou contribuição, entre em contato através do [LinkedIn](https://www.linkedin.com/in/gabriel-finger-conte/), [GitHub](https://github.com/Gabriel-FC-Comp/) ou [E-mail](gabifcont@gmail.com).
+Para qualquer dúvida ou contribuição, entre em contato através do [LinkedIn](https://www.linkedin.com/in/gabriel-finger-conte/) ou [GitHub](https://github.com/Gabriel-FC-Comp/).
