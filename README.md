@@ -40,14 +40,6 @@ Para utilizar a função analisaRecintos, crie uma instância da classe Recintos
    const resultado = zoo.analisaRecintos('MACACO', 2);
    console.log(resultado);
    ```
-
-## Testes
-
-Os testes estão localizados no arquivo **src/recintos-zoo.test.js**. Utilize o Jest para executá-los:
-   ```bash
-   npm test
-   ```
-
 ## Contribuição e Contato
 
 Para qualquer dúvida ou contribuição, entre em contato através do [LinkedIn](https://www.linkedin.com/in/gabriel-finger-conte/), [GitHub](https://github.com/Gabriel-FC-Comp/) ou [E-mail](gabifcont@gmail.com).
